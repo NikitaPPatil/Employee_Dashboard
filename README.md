@@ -1,4 +1,4 @@
-**Diversity and Inclusion Analysis**<br>
+# Diversity and Inclusion Analysis<br>
 **Project Overview**<br>
 The telecom company has expressed concern over the lack of progress in improving gender balance at the executive management level. This report outlines our approach to addressing this challenge by defining relevant KPIs, creating visualizations, and identifying potential root causes for the slow progress.<br>
 
@@ -32,3 +32,6 @@ The analysis revealed several factors contributing to the slow progress in achie
 
 **Conclusion**<br>
 This report provides a comprehensive analysis of the gender diversity challenges and offers actionable insights and recommendations. By focusing on relevant KPIs, creating effective visualizations, and addressing potential root causes, it is necessary to put efforts in achieving diversity and inclusion goals at the executive level.<br>
+![image](https://github.com/user-attachments/assets/106f3473-1808-4a4d-a2e5-6fc443f7e59b)
+![image](https://github.com/user-attachments/assets/e6d1c31d-f594-4623-ad05-28a41a600603)
+
